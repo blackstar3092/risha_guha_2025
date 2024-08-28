@@ -3,5 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+## My name is Risha Guha and I am a sophomore at DNHS. 
+#### I am interested in engineering, computer science, and cybersecurity. 
 
-My name is Risha Guha and I am a sophomore at DNHS. 
+<img src="{{site.baseurl}}/images/aboutme.png">
