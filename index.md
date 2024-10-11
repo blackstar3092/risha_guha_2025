@@ -206,5 +206,3 @@ Pictures are made using Wikipedia images.
         crossorigin="anonymous"
         async>
 </script>
-
-#
